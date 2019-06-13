@@ -9,7 +9,7 @@
     "c++",
     "ffi"
   ],
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
     "type": "git",
@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "@saleae/ref"
+    "ref": "npm:@saleae/ref"
   },
   "devDependencies": {
     "bindings": "~1.5.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "@saleae/ref-array"
+    "ref-array": "npm:@saleae/ref-array"
   }
 }
