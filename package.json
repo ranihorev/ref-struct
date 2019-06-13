@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "ranihorev/ref#node-12"
+    "ref": "@saleae/ref"
   },
   "devDependencies": {
     "bindings": "~1.5.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "ranihorev/ref-array#node-12"
+    "ref-array": "@saleae/ref-array"
   }
 }
