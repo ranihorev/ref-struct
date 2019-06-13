@@ -1,5 +1,5 @@
 {
-  "name": "ref-struct",
+  "name": "@saleae/ref-struct",
   "description": "Create ABI-compliant \"struct\" instances on top of Buffers",
   "keywords": [
     "struct",
